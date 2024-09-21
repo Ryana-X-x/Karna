@@ -1,0 +1,21 @@
+{
+  "name": "karna",
+  "version": "1.0.0",
+  "description": "Matrix Hackathon Crypto Charity",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.7",
+    "bcryptjs": "^2.4.3",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.0",
+    "jsonwebtoken": "^9.0.2",
+    "karna": "file:",
+    "mongoose": "^8.6.3"
+  }
+}
